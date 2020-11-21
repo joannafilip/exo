@@ -1,2 +1,3 @@
 var x= 5;
- console(lklkl");
+ console.log("lklkl");
+ console.log ("hello!");
